@@ -17,5 +17,5 @@ jobs:
         id: release
         with:
           release-type: simple
-          package-name: test-release-tags
+          command: manifest
           token: ${{ secrets.AUTOMATION_TOKEN }}
