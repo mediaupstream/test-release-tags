@@ -1,0 +1,14 @@
+name: Tag Deploy for main branch
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Echo Test Deploy Main
+        run: echo "TEST DEPLOY MAIN BRANCH" 
