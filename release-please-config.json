@@ -3,8 +3,8 @@
   "pull-request-header": ":ship: Automated Release",
   "extra-label": "release-pr",
   "prerelease": true,
-  "prerelease-type": "rc",
-  "versioning": "beta",
+  "prerelease-type": "nexus",
+  "versioning": "prerelease",
   "changelog-sections": [
     { "type": "feat",  "section": "🚀 Features" },
     { "type": "fix",   "section": "🐛 Bug Fixes" },
