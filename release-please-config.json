@@ -1,0 +1,15 @@
+{
+  "release-type": "simple",
+  "pull-request-header": ":ship: Automated Release",
+  "extra-label": "release-pr",
+  "changelog-sections": [
+    { "type": "feat",  "section": "🚀 Features" },
+    { "type": "fix",   "section": "🐛 Bug Fixes" },
+    { "type": "chore", "section": "🧹 Chores" },
+    { "type": "deps", "section": "🔗 Dependencies" },
+    { "type": "docs", "section": "📝 Documentation" }
+  ],
+  "packages": {
+    ".": "1.0.0"
+  }
+}
