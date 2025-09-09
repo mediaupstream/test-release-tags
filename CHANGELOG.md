@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/mediaupstream/test-release-tags/compare/v1.1.0...v1.2.0) (2025-09-09)
+
+
+### 🚀 Features
+
+* adds gitignore ([2edcefd](https://github.com/mediaupstream/test-release-tags/commit/2edcefd2b05394f926aa1046f3fd7fe96bc9ddaf))
+* something here ([b01b50d](https://github.com/mediaupstream/test-release-tags/commit/b01b50d267791beedb4dbc8bd5ff59f1b092fb81))
+
+
+### 🐛 Bug Fixes
+
+* upgrade to v4 ([a3aecef](https://github.com/mediaupstream/test-release-tags/commit/a3aecef08faa4410b288c6aa4fd9eab1355970e8))
+* use correct thing ([c158347](https://github.com/mediaupstream/test-release-tags/commit/c158347225217bf33161c2ec8f7cf6ee1b77f75e))
+
 ## [1.1.0](https://github.com/mediaupstream/test-release-tags/compare/v1.0.0...v1.1.0) (2025-09-09)
 
 
