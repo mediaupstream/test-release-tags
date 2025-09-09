@@ -4,7 +4,7 @@
   "extra-label": "release-pr",
   "prerelease": true,
   "prerelease-type": "rc",
-  "versioning": "prerelease",
+  "versioning": "beta",
   "changelog-sections": [
     { "type": "feat",  "section": "🚀 Features" },
     { "type": "fix",   "section": "🐛 Bug Fixes" },
