@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0-rc.1](https://github.com/mediaupstream/test-release-tags/compare/v1.2.0-rc...v1.2.0-rc.1) (2025-09-09)
+
+
+### 🐛 Bug Fixes
+
+* doing something beta stuff ([0b583c6](https://github.com/mediaupstream/test-release-tags/commit/0b583c61de0837faa43db1479baee2bb1223147a))
+* doing something beta stuff ([6d5b4cd](https://github.com/mediaupstream/test-release-tags/commit/6d5b4cd98528b685321ccc9ac95ea09f8e57384a))
+* keep version strat, use diff type ([32e2060](https://github.com/mediaupstream/test-release-tags/commit/32e20600ab23cb55c03ea745e3c891123aaffcb4))
+* trying again ([2ddb6d8](https://github.com/mediaupstream/test-release-tags/commit/2ddb6d845fe4768c757c0d7381b3a80c66155529))
+
 ## [1.2.0-rc](https://github.com/mediaupstream/test-release-tags/compare/v1.1.0...v1.2.0-rc) (2025-09-09)
 
 
