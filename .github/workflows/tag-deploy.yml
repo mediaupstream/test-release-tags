@@ -1,4 +1,4 @@
-name: Tag Deploy for main branch
+name: Tag Deploy for prerelease branch
 
 on:
   push:
@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Echo Test Deploy Main
-        run: echo "TEST DEPLOY MAIN BRANCH" 
+      - name: Echo Test Deploy prerelease
+        run: echo "TEST DEPLOY prerelease BRANCH" 
